@@ -16,3 +16,5 @@ Jumper Wires
 ## The Code
 The Code features a C++ language type written on the Arduino IDE software. It uses the LED as a primary indicator for the Servo Motor, using numerous if else statements. The distance sensor's Trigger Pin sends out ultrasonic pulses that help it detect how far an object  The Echo pin then recieves this signal and measures the distance. If a distance is within 15 centimeters, then the LED will turn on. If distance is greater than 15 centimeters, then LED stays off. If the LED is lit, then the servo motor will rotate 50 degrees. If the LED is off, then the servo motor rotates 0 degrees. 
 
+## The Arduino Code for this project can be found below:
+See the [full Arduino sketch](./Smart_Trash_Bin/Smart_Trash_Bin.ino)
