@@ -20,4 +20,8 @@ The Code features a C++ language type written on the Arduino IDE software. It us
 See the [full Arduino sketch](./Code)
 
 ## Images and Videos
-<img src="./IMG_8212.PNG" width="400">
+Click on the image below to view a video👇
+
+<a href="./IMG_7993.mp4">
+  <img src="./IMG_8212.PNG" width="400" alt="Click to watch video">
+</a>
