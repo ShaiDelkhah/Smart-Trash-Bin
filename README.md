@@ -18,3 +18,6 @@ The Code features a C++ language type written on the Arduino IDE software. It us
 
 ## The Arduino Code for this project can be found below:
 See the [full Arduino sketch](./Code)
+
+## Images and Videos
+<img src="./IMG_8212.PNG" width="400">
